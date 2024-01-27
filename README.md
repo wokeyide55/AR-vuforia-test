@@ -33,3 +33,8 @@ https://www.youtube.com/watch?v=-bF0oxgtt6A
 目前的bug：
 
 图片走出画面之后识别出的模型并不会消失，但是在最开始的场景中测试却没有这个问题，在代码中手动调整，比如添加if-else条件，得到了部分改善，但是这个问题并没有完全根除。
+
+# apk链接：
+
+链接：https://pan.baidu.com/s/1xd8MAE8B_85oMsvK9HhmXg?pwd=oiss 
+提取码：oiss

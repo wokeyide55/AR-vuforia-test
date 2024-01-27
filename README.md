@@ -25,3 +25,11 @@ https://www.youtube.com/watch?v=-bF0oxgtt6A
 最终视频demo链接：
 
 【[unity+vuforia]AR结课作业-洛天依的生日贺卡】 https://www.bilibili.com/video/BV1Dw411j71k/?share_source=copy_web&vd_source=234af0a1832951571b35315678c597b9
+
+# 难点备注
+
+当时做的时候遇见的最大的困难是调整双指缩放和单指旋转，参考了csdn博客，但是运行起来还是会卡bug，最后借助gpt修正。
+
+目前的bug：
+
+图片走出画面之后识别出的模型并不会消失，但是在最开始的场景中测试却没有这个问题，在代码中手动调整，比如添加if-else条件，得到了部分改善，但是这个问题并没有完全根除。
